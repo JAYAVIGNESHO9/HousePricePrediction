@@ -65,7 +65,7 @@ Categorical features such as Location, Condition, and Garage are converted into 
 
 
 ##  Example Usage
-![Prediction Output](images/prediction_output.png)
+![Prediction Output](Screenshot 2026-03-19 210611.png)
 
 ##  Model Evaluation
 
