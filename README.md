@@ -65,7 +65,7 @@ Categorical features such as Location, Condition, and Garage are converted into 
 
 
 ##  Example Usage
-<img src="https://raw.githubusercontent.com/JAYAVIGNESHO9/HousePricePrediction/main/images/prediction_output.png" width="600">
+![Prediction Output](images/prediction_output.png)
 
 ##  Model Evaluation
 
